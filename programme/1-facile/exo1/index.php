@@ -17,7 +17,7 @@ $temp = $a;
 $a = $b;
 $b = $c;
 $c = $temp;
-
+//Fin de l'exercice 1
 echo "A:" . $a . "<br/>";
 echo "B:" . $b . "<br/>";
 echo "C:" . $c . "<br/>";
