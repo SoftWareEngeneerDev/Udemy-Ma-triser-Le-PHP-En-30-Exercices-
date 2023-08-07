@@ -1,5 +1,5 @@
 <?php ob_start(); //NE PAS MODIFIER 
-$titre = "Exo 13 : Les Tableaux Associatifs"; //Mettre le nom du titre de la page que vous voulez
+$titre = "Exo 15 : Les Tableaux Associatifs"; //Mettre le nom du titre de la page que vous voulez
 ?>
 
 <!-- mettre ici le code -->
